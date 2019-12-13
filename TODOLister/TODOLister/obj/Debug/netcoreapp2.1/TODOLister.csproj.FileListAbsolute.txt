@@ -1,0 +1,11 @@
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\bin\Debug\netcoreapp2.1\TODOLister.deps.json
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\bin\Debug\netcoreapp2.1\TODOLister.runtimeconfig.json
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\bin\Debug\netcoreapp2.1\TODOLister.runtimeconfig.dev.json
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\bin\Debug\netcoreapp2.1\TODOLister.dll
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\obj\Debug\netcoreapp2.1\TODOLister.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\obj\Debug\netcoreapp2.1\TODOLister.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\obj\Debug\netcoreapp2.1\TODOLister.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\obj\Debug\netcoreapp2.1\TODOLister.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\bin\Debug\netcoreapp2.1\TODOLister.pdb
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\obj\Debug\netcoreapp2.1\TODOLister.dll
+C:\Users\lukas\Desktop\Tenta\TODOLister\TODOLister\obj\Debug\netcoreapp2.1\TODOLister.pdb
